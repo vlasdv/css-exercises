@@ -1,0 +1,22 @@
+.odd {
+  background-color: #f59492;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 24px;
+}
+
+.adjust-size {
+  font-size: 24px;
+}
+
+#num2 {
+  color:#00f;
+  font-size: 36px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#num4 {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #96ef96;
+  font-family: Arial, Helvetica, sans-serif;
+}
